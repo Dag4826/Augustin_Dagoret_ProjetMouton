@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: d9e95928c4157bf4d84af8d41e8f2655
+timeCreated: 1456503779
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_AD_cuisse
+    100002: Bone_AD_pied
+    100004: Bone_AD_tibia
+    100006: Bone_AG_cuisse
+    100008: Bone_AG_fin_bone
+    100010: Bone_AG_pied
+    100012: Bone_AG_tibia
+    100014: Bone_DD_cuisse
+    100016: Bone_DD_END
+    100018: Bone_DD_pied
+    100020: Bone_DD_Tibia
+    100022: Bone_DG_cuisse
+    100024: Bone_DG_END
+    100026: Bone_DG_pied
+    100028: Bone_DG_Tibia
+    100030: Corps
+    100032: fin_bone
+    100034: Jambe01
+    100036: Jambe02
+    100038: Jambe03
+    100040: Jambe04
+    100042: //RootNode
+    100044: oeil droit
+    100046: oeil gauche
+    100048: oreille droite
+    100050: oreille gauche
+    100052: queue
+    100054: "T\xEAte"
+    400000: Bone_AD_cuisse
+    400002: Bone_AD_pied
+    400004: Bone_AD_tibia
+    400006: Bone_AG_cuisse
+    400008: Bone_AG_fin_bone
+    400010: Bone_AG_pied
+    400012: Bone_AG_tibia
+    400014: Bone_DD_cuisse
+    400016: Bone_DD_END
+    400018: Bone_DD_pied
+    400020: Bone_DD_Tibia
+    400022: Bone_DG_cuisse
+    400024: Bone_DG_END
+    400026: Bone_DG_pied
+    400028: Bone_DG_Tibia
+    400030: Corps
+    400032: fin_bone
+    400034: Jambe01
+    400036: Jambe02
+    400038: Jambe03
+    400040: Jambe04
+    400042: //RootNode
+    400044: oeil droit
+    400046: oeil gauche
+    400048: oreille droite
+    400050: oreille gauche
+    400052: queue
+    400054: "T\xEAte"
+    2300000: Corps
+    2300002: oeil droit
+    2300004: oeil gauche
+    2300006: oreille droite
+    2300008: oreille gauche
+    2300010: queue
+    2300012: "T\xEAte"
+    3300000: Corps
+    3300002: oeil droit
+    3300004: oeil gauche
+    3300006: oreille droite
+    3300008: oreille gauche
+    3300010: queue
+    3300012: "T\xEAte"
+    4300000: Corps
+    4300002: "T\xEAte"
+    4300004: oreille droite
+    4300006: oreille gauche
+    4300008: oeil droit
+    4300010: oeil gauche
+    4300012: Jambe03
+    4300014: Jambe02
+    4300016: Jambe01
+    4300018: Jambe04
+    4300020: queue
+    9500000: //RootNode
+    13700000: Jambe01
+    13700002: Jambe02
+    13700004: Jambe03
+    13700006: Jambe04
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
