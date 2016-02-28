@@ -1,0 +1,6 @@
+Je n'ai pas pu mettre le fichier vidéo ou le zip des sources du projet Unity car la taille dépasse celle autorisée pour 1 fichier. 
+
+Pour la vidéo, vous trouverez donc un lien vers la vidéo Youtube.
+
+Pour les fichiers Unity, ils sont dans le dossier, non-zippé.
+
